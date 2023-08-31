@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : REDX
-# Author     : LOKESH 
+# ToolName   : redx
+# Author     : lokesh
 # License    : MIT
-# Copyright  : LOKESH  (2022-2023)
+# Copyright  : lokesh (2022-2023)
 # Github     : https://github.com/lokesh96348
-# Contact    : 
-# Description: REDX is a phishing tool in python
+# Contact    : https://m.me/KasRoudra
+# Description: MaxPhisher is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
 # 1st Commit : 08/9/2022
 # Language   : Python
@@ -18,7 +18,7 @@
 """
 MIT License
 
-Copyright (c) 2022-2023 LOKESH 
+Copyright (c) 2022-2023 KasRoudra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -122,27 +122,11 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 # Modifying this could be potentially dangerous
 logo = f"""
-{red} 
-{cyan}
-{yellow}                                                     
-                                                     
-,-.----.        ,---,.     ,---,      ,--,     ,--,  
-\    /  \     ,'  .' |   .'  .' `\    |'. \   / .`|  
-;   :    \  ,---.'   | ,---.'     \   ; \ `\ /' / ;  
-|   | .\ :  |   |   .' |   |  .`\  |  `. \  /  / .'  
-.   : |: |  :   :  |-, :   : |  '  |   \  \/  / ./   
-|   |  \ :  :   |  ;/| |   ' '  ;  :    \  \.'  /    
-|   : .  /  |   :   .' '   | ;  .  |     \  ;  ;     
-;   | |  \  |   |  |-, |   | :  |  '    / \  \  \    
-|   | ;\  \ '   :  ;/| '   : | /  ;    ;  /\  \  \   
-:   ' | \.' |   |    \ |   | '` ,/   ./__;  \  ;  \  
-:   : :-'   |   :   .' ;   :  .'     |   : / \  \  ; 
-|   |.'     |   | ,'   |   ,.'       ;   |/   \  ' | 
-`---'       `----'     '---'         `---'     `--`  
-                                                     
-
-{blue}
-{red}
+{red} __  __            ____  _     _     _
+{cyan}|  \/  | __ ___  _|  _ \| |__ (_)___| |__   ___ _ __
+{yellow}| |\/| |/ _` \ \/ / |_) | '_ \| / __| '_ \ / _ \ '__|
+{blue}| |  | | (_| |>  <|  __/| | | | \__ \ | | |  __/ |
+{red}|_|  |_|\__,_/_/\_\_|   |_| |_|_|___/_| |_|\___|_|
 {yellow}{" "*35}         [{blue}v{version[:3]}{yellow}]
 {cyan}{" "*36}[{blue}By {green}\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{cyan}]
 """
